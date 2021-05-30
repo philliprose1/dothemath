@@ -1,0 +1,61 @@
+body{
+    background-color:#CFEBF9;
+}
+#border {
+    display:flex;
+    justify-content: center;
+}
+input{
+    padding:5px;
+    border-color:lightslategray;
+}
+button{
+font-weight: 700;
+font-family:monospace;
+font-size:15px;
+}
+label{
+    font-weight:700;
+    font-family:monospace;
+    font-size:15px;
+}
+#cal{  
+
+border-style:outset;
+padding:20px;
+box-shadow:2px 3px 2px slategray;
+
+background-color:gainsboro;
+}
+h1{
+font-family:monospace;
+}
+#title {
+    display:flex;
+    justify-content:center;
+}
+
+.answer{
+    font-size:20px;
+    font-weight:600;
+}
+.answerdiv {
+    display: flex;
+    justify-content: center;
+
+}
+input:hover {
+    background-color:lightgoldenrodyellow;
+}
+button:hover {
+    padding:5px;
+    border-radius:20px;
+    background-color: springgreen;
+}
+footer {
+    display:flex;
+    justify-content:center;
+    padding:7px 7px 7px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
